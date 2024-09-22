@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 
 # 源码
 开发版源码随时可能会提交，因此生产环境更建议使用外面根目录压缩后的js。

@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 ﻿
 # layer mobole
 layer mobile是为移动设备（手机、平板等webkit内核浏览器/webview）量身定做的弹层支撑，采用Native JavaScript编写，完全独立于PC版的layer，您需要按照场景选择使用。
